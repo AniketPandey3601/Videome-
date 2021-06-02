@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542986664746",
+    "project_id": "videome-e4502",
+    "storage_bucket": "videome-e4502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542986664746:android:99e26269afe4ca77503c53",
+        "android_client_info": {
+          "package_name": "com.example.videome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542986664746-8rsvjb47ii7f4c9e743a2upurnaobch9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgjCrSa8KEeXq9Sm26POKtt4l0IfREe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542986664746-8rsvjb47ii7f4c9e743a2upurnaobch9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
